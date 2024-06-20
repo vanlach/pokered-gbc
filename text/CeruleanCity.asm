@@ -9,7 +9,7 @@ _CeruleanCityRivalPreBattleText::
 	para "I'm doing great!"
 	line "I caught a bunch"
 	cont "of strong and"
-	cont "smart #MON!"
+	cont "smart #mon!"
 
 	para "Here, let me see"
 	line "what you caught,"
@@ -32,22 +32,22 @@ _CeruleanCityRivalIWentToBillsText::
 	text "<RIVAL>: Hey,"
 	line "guess what?"
 
-	para "I went to BILL's"
+	para "I went to Bill's"
 	line "and got him to"
 	cont "show me his rare"
-	cont "#MON!"
+	cont "#mon!"
 
 	para "That added a lot"
 	line "of pages to my"
-	cont "#DEX!"
+	cont "#dex!"
 
-	para "After all, BILL's"
+	para "After all, Bill's"
 	line "world famous as a"
-	cont "#MANIAC!"
+	cont "#maniac!"
 
 	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+	line "#mon Storage"
+	cont "System on the PC!"
 
 	para "Since you're using"
 	line "his system, go"
@@ -95,7 +95,7 @@ _CeruleanCityRocketIGiveUpText::
 	prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
-	text "OK! I'll return"
+	text "Ok! I'll return"
 	line "the TM I stole!"
 	prompt
 
@@ -118,7 +118,7 @@ _CeruleanCitySuperNerd1Text::
 _CeruleanCitySuperNerd2Text::
 	text "You're making an"
 	line "encyclopedia on"
-	cont "#MON? That"
+	cont "#mon? That"
 	cont "sounds amusing."
 	done
 
@@ -127,64 +127,64 @@ _CeruleanCityGuardText::
 	line "were robbed."
 
 	para "It's obvious that"
-	line "TEAM ROCKET is"
+	line "Team Rocket is"
 	cont "behind this most"
 	cont "heinous crime!"
 
-	para "Even our POLICE"
+	para "Even our police"
 	line "force has trouble"
-	cont "with the ROCKETs!"
+	cont "with the Rockets!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
-	text "OK! SLOWBRO!"
-	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
+	text "Ok! Slowbro!"
+	line "Use Sonicboom!"
+	cont "Come on, Slowbro"
 	cont "pay attention!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
-	text "SLOWBRO punch!"
+	text "Slowbro punch!"
 	line "No! You blew it"
 	cont "again!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
-	text "SLOWBRO, WITHDRAW!"
+	text "Slowbro, Withdraw!"
 	line "No! That's wrong!"
 
 	para "It's so hard to"
-	line "control #MON!"
+	line "control #mon!"
 
-	para "Your #MON's"
+	para "Your #mon's"
 	line "obedience depends"
 	cont "on your abilities"
 	cont "as a trainer!"
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
-	text "SLOWBRO took a"
+	text "Slowbro took a"
 	line "snooze..."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
-	text "SLOWBRO is"
+	text "Slowbro is"
 	line "loafing around..."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
-	text "SLOWBRO turned"
+	text "Slowbro turned"
 	line "away..."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
-	text "SLOWBRO"
+	text "Slowbro"
 	line "ignored orders..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
 	text "I want a bright"
-	line "red BICYCLE!"
+	line "red bicycle!"
 
 	para "I'll keep it at"
 	line "home, so it won't"
@@ -192,26 +192,26 @@ _CeruleanCityCooltrainerF2Text::
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
+	text "This is Cerulean"
+	line "Cave! Horribly"
+	cont "strong #mon"
 	cont "live in there!"
 
-	para "The #MON LEAGUE"
+	para "The #mon League"
 	line "champion is the"
 	cont "only person who"
 	cont "is allowed in!"
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
+	text "Cerulean City"
 	line "A Mysterious,"
 	cont "Blue Aura"
 	cont "Surrounds It"
 	done
 
 _CeruleanCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "Trainer Tips"
 
 	para "Pressing B Button"
 	line "during evolution"
@@ -222,13 +222,13 @@ _CeruleanCityTrainerTipsText::
 _CeruleanCityBikeShopSign::
 	text "Grass and caves"
 	line "handled easily!"
-	cont "BIKE SHOP"
+	cont "Bike Shop"
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
-	line "#MON GYM"
-	cont "LEADER: MISTY"
+	text "Cerulean City"
+	line "#mon Gym"
+	cont "Leader: Misty"
 
 	para "The Tomboyish"
 	line "Mermaid!"

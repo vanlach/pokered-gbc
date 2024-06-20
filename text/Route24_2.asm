@@ -10,7 +10,7 @@ _Route24CooltrainerM2AfterBattleText::
 	done
 
 _Route24CooltrainerM3BattleText::
-	text "OK! I'm No. 5!"
+	text "Ok! I'm No. 5!"
 	line "I'll stomp you!"
 	done
 
@@ -70,8 +70,8 @@ _Route24CooltrainerF2AfterBattleText::
 	done
 
 _Route24Youngster2BattleText::
-	text "This is NUGGET"
-	line "BRIDGE! Beat us 5"
+	text "This is Nugget"
+	line "Bridge! Beat us 5"
 	cont "trainers and win"
 	cont "a fabulous prize!"
 

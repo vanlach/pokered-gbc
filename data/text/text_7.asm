@@ -34,7 +34,7 @@ _ThrewAwayItemText::
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "Is it ok to toss"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
@@ -190,11 +190,11 @@ _AfterTrade3Text::
 
 _NothingToCutText::
 	text "There isn't"
-	line "anything to CUT!"
+	line "anything to Cut!"
 	prompt
 
 _UsedCutText::
 	text_ram wcd6d
 	text " hacked"
-	line "away with CUT!"
+	line "away with Cut!"
 	prompt

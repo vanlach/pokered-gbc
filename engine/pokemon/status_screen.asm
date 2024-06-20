@@ -136,7 +136,7 @@ ENDC
 	jr nz, .StatusWritten
 	hlcoord 16, 6
 	ld de, OKText
-	call PlaceString ; "OK"
+	call PlaceString ; "Ok"
 .StatusWritten
 	hlcoord 9, 6
 	ld de, StatusText
@@ -229,7 +229,7 @@ StatusText:
 	db "STATUS/@"
 
 OKText:
-	db "OK@"
+	db "Ok@"
 
 ; Draws a line starting from hl high b and wide c
 DrawLineBox:
@@ -295,10 +295,10 @@ PrintStat:
 	ret
 
 StatsText:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPEED"
-	next "SPECIAL@"
+	db   "Attack"
+	next "Defense"
+	next "Speed"
+	next "Special@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]
@@ -475,8 +475,8 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "EXP POINTS"
-	next "LEVEL UP@"
+	db   "Exp Points"
+	next "Level Up@"
 
 StatusScreen_ClearName:
 	ld bc, 10

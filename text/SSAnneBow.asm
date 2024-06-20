@@ -30,7 +30,7 @@ _SSAnneBowSailor2EndBattleText::
 
 _SSAnneBowSailor2AfterBattleText::
 	text "How many kinds of"
-	line "#MON do you"
+	line "#mon do you"
 	cont "think there are?"
 	done
 
@@ -45,8 +45,8 @@ _SSAnneBowSailor3EndBattleText::
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
+	text "My pa said there"
 	line "are 100 kinds of"
-	cont "#MON. I think"
+	cont "#mon. I think"
 	cont "there are more."
 	done

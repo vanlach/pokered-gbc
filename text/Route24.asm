@@ -26,11 +26,11 @@ _Route24CooltrainerM1NoRoomText::
 _Route24CooltrainerM1JoinTeamRocketText::
 	text "By the way, would"
 	line "you like to join"
-	cont "TEAM ROCKET?"
+	cont "Team Rocket?"
 
 	para "We're a group"
 	line "dedicated to evil"
-	cont "using #MON!"
+	cont "using #mon!"
 
 	para "Want to join?"
 
@@ -41,7 +41,7 @@ _Route24CooltrainerM1JoinTeamRocketText::
 	para "I'm telling you"
 	line "to join!"
 
-	para "OK, you need"
+	para "Ok, you need"
 	line "convincing!"
 
 	para "I'll make you an"
@@ -58,7 +58,7 @@ _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
 	text "With your ability,"
 	line "you could become"
 	cont "a top leader in"
-	cont "TEAM ROCKET!"
+	cont "Team Rocket!"
 	done
 
 _Route24CooltrainerM2BattleText::

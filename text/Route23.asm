@@ -12,7 +12,7 @@ _Route23YouDontHaveTheBadgeYetText::
 
 	para "You have to have"
 	line "it to get to"
-	cont "#MON LEAGUE!@"
+	cont "#mon League!@"
 	text_end
 
 _Route23OhThatIsTheBadgeText::
@@ -31,11 +31,11 @@ _Route23OhThatIsTheBadgeText::
 _Route23GoRightAheadText::
 	text_start
 
-	para "OK then! Please,"
+	para "Ok then! Please,"
 	line "go right ahead!"
 	done
 
 _Route23VictoryRoadGateSignText::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "Victory Road Gate"
+	line "- #mon League"
 	done
