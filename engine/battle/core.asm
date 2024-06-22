@@ -5395,7 +5395,7 @@ MoveHitTest:
 	cp SWIFT_EFFECT
 	ret z ; Swift never misses (this was fixed from the Japanese versions)
 	call CheckTargetSubstitute ; substitute check (note that this overwrites a)
-	jr z, .noSubstitue
+	jr z, .noSubstitute
 ; The fix for Swift broke this code. It's supposed to prevent HP draining moves from working on Substitutes.
 ; Since CheckTargetSubstitute overwrites a with either $00 or $01, it never works.
 	cp DRAIN_HP_EFFECT
@@ -5836,7 +5836,7 @@ CheckEnemyStatusConditions:
 .wokeUp
 	ld hl, WokeUpText
 	call PrintText
-	jr z, .fheckIfFrozen
+	jr z, .checkIfFrozen
 .sleepDone
 	xor a
 	ld [wEnemyUsedMove], a
