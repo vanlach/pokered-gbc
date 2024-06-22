@@ -201,8 +201,13 @@ ROMX $2B
 ROMX $2C
 	"bank2C"
 	"Move Names"
+ROMX $30
+	org $4000
+	"Party Mon Sprites Gfx 1"
 ROMX $31
-	"bank31"
+	org $4000
+	"Party Mon Sprites Gfx 2"
+	"Party Mon Sprites Routines"
 ROMX $32
 	"Pics 7"
 ROMX $33
